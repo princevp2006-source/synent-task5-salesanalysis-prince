@@ -1,7 +1,3 @@
-# synent-task5-salesanalysis-prince
-
-# Task 5: Sales Data Analysis
-
 ## Objective
 Analyze business performance using the Superstore Sales Dataset.
 
